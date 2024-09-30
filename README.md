@@ -2,9 +2,6 @@
 <img width="954" alt="Screenshot 2024-09-29 195311" src="https://github.com/user-attachments/assets/9ffae8c8-4167-453c-aa96-bd6a1558f277">
 
 # Description
-Here’s a neat version of your project description:
-
----
 
 ## React Counter Application
 
